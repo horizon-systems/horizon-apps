@@ -1,0 +1,6 @@
+{
+	title = 'Games',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/games',
+	description = [[Games by various people]],
+	license = 'MIT',
+}

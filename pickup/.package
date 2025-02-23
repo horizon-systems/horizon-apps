@@ -1,0 +1,10 @@
+{
+	required = {
+		'core',
+		'turtle',
+	},
+	title = 'Move resources around with turtles',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/pickup',
+	description = [[ WiP ]],
+	license = 'MIT',
+}

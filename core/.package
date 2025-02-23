@@ -1,0 +1,6 @@
+{
+	title = 'APIs used by various programs',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/core',
+	description = [[Provides APIs used by HorizonOS applications.]],
+	license = 'MIT',
+}

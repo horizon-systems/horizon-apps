@@ -1,0 +1,9 @@
+{
+	title = 'Programs for the neural interface',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/neural',
+	description = [[ Applications using various plethora modules ]],
+	license = 'MIT',
+	required = {
+		'core',
+	},
+}

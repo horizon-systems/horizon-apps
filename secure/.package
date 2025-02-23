@@ -1,0 +1,6 @@
+{
+	title = 'Security features for HorizonOS',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/secure',
+	description = [[ Screen locking ]],
+	license = 'MIT',
+}

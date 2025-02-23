@@ -1,0 +1,14 @@
+{
+	required = {
+		'core',
+		'turtle',
+	},
+	title = 'Programs for farming resources',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/farms',
+	description = [[Includes: 
+ * Tree Farm
+ * Cow/Sheep Rancher
+ * Farmer
+]],
+	license = 'MIT',
+}

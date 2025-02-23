@@ -1,0 +1,10 @@
+{
+	required = {
+		'core',
+		'turtle',
+	},
+	title = 'Schematic Builder',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/builder',
+	description = [[Build structures from schematic files using a turtle or command computer. ]],
+	license = 'MIT',
+}

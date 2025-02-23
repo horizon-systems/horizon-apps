@@ -1,0 +1,11 @@
+{
+	required = {
+		'turtle',
+	},
+	title = 'Turtle mining programs',
+	repository = 'horizon-systems/horizon-apps{{OPUS_BRANCH}}/miners',
+	description = [[Provides two types of automated mining:
+ * Scanning Miner: Uses a block scanner to very efficiently mine areas
+ * Simple Miner: A single or multi-turtle miner]],
+	license = 'MIT',
+}

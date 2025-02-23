@@ -1,0 +1,4 @@
+packages/common/ascii.lua urlfs http://pastebin.com/raw/u3kcnyjd
+packages/common/hexedit.lua urlfs https://pastebin.com/raw/Ds9ajsp4
+packages/common/colors.lua urlfs https://raw.githubusercontent.com/horizon-systems/horizon-apps/develop/ignore/colors.lua
+packages/common/cowsay.lua urlfs https://pastebin.com/raw/n00VQJsw

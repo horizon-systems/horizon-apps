@@ -1,0 +1,13 @@
+{
+	required = {
+		'turtle',
+	},
+	title = 'GPS',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/gps',
+	description = [[A single turtle GPS server
+
+Uses 4 wireless modems connected to a single turtle or computer connected with network cables.
+The turtle will also initially place all the modems in the correct locations.
+]],
+	license = 'MIT',
+}

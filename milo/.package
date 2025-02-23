@@ -1,0 +1,15 @@
+{
+	required = {
+		'core',
+		'recipeBook',
+		'turtle',
+	},
+	title = 'Milo: Advanced inventory management',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/milo',
+	description = [[Provides AE style crafting in computercraft.
+
+Includes: importing, exporting, autocrafting, replenish, limits and much more.
+
+Includes over 200 standard Minecraft recipes.]],
+	license = 'MIT',
+}

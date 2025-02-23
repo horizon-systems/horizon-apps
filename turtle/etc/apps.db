@@ -1,0 +1,14 @@
+{
+	[ "47b3d6dc1170faf4ae496fff3db374817bf32e2f" ] = {
+		title = "Refuel",
+		category = "Turtle",
+		run = "lavaRefuel.lua",
+		requires = 'turtle',
+	},
+	[ "24c869802c3e242e28585a1c90c21847f259e4f8" ] = {
+		title = "Obsidian",
+		category = "Turtle",
+		run = "obsidian.lua",
+		requires = 'turtle',
+	},
+}

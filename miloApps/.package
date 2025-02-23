@@ -1,0 +1,9 @@
+{
+	required = {
+		'turtle',
+	},
+	title = 'Milo extra applications',
+	repository = 'horizon-systems/horizon-apps/{{OPUS_BRANCH}}/miloApps',
+	description = [[Programs for turtles in a Milo network]],
+	license = 'MIT',
+}
