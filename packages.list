@@ -1,6 +1,6 @@
 {
---	[ 'common'     ] = 'https://raw.githubusercontent.com/horizon-systems/horizon-apps/master/common/.package',
-	[ 'core'       ] = 'https://raw.githubusercontent.com/horizon-systems/horizon-apps/master/core/.package',
+	[ 'common'     ] = 'https://raw.githubusercontent.com/horizon-systems/horizon-apps/master/common/.package',
+--	[ 'core'       ] = 'https://raw.githubusercontent.com/horizon-systems/horizon-apps/master/core/.package',
 --	[ 'builder'    ] = 'https://raw.githubusercontent.com/horizon-systems/horizon-apps/master/builder/.package',
 --	[ 'ccemux'     ] = 'https://raw.githubusercontent.com/horizon-systems/horizon-apps/master/ccemux/.package',
 --	[ 'farms'      ] = 'https://raw.githubusercontent.com/horizon-systems/horizon-apps/master/farms/.package',
